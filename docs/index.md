@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 1. 实践是检验真理的唯一标准
 
 You can use the [editor on GitHub](https://github.com/vioulo/What-i-experienced/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
