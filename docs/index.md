@@ -4,5 +4,6 @@
 ### 4. 短时间内的远距离活动，会让你感觉到不久前发生的事已经发生了很久
 ### 5. 隔一段时间就整理下自己的房间、文件，打扫下卫生
 ### 6. 多和别人沟通，学会清晰表达自己的想法
+### 7. 一件事情从是什么开始 (What/Where/When/Who/How)
 
 [editor on GitHub](https://github.com/vioulo/What-i-experienced/edit/main/docs/index.md)
