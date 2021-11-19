@@ -5,5 +5,6 @@
 ### 5. 隔一段时间就整理下自己的房间、文件，打扫下卫生
 ### 6. 多和别人沟通，学会清晰表达自己的想法
 ### 7. 一件事情从是什么开始 (What/Where/When/Who/How)
+### 8. 勤剪指甲
 
 [editor on GitHub](https://github.com/vioulo/What-i-experienced/edit/main/docs/index.md)
