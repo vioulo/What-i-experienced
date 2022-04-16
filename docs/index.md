@@ -8,5 +8,6 @@
 ### 08. 勤剪指甲
 ### 09. 人生需要一个足够远大、长期的目标，努力为之实现，它所附带的成果会给你反馈
 ### 10. 环境光的变化会对人产生影响，像 思维、情绪、感知等等 -> 似乎与 02 相关
+### 11. 空白、廉价的草稿纸是必需品
 
 [editor on GitHub](https://github.com/vioulo/What-i-experienced/edit/main/docs/index.md)
